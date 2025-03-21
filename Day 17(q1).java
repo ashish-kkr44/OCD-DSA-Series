@@ -1,3 +1,6 @@
+//Day 17 q1
+//Q1 : https://leetcode.com/problems/isomorphic-strings/description/
+// T.C. : 0(N) & S.C. : O(1)
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         if (s.length() != t.length()) {
